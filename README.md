@@ -5,4 +5,4 @@ This is a toy project completed with the aim of getting some hands-on experience
 Approximately 30k papers from this [kaggle dataset](https://www.kaggle.com/neelshah18/arxivdataset/) were used for training. 
 
 ## Model 
-I fine-tuned all weights from a pre-trained [distilbert](https://huggingface.co/Wi/arxiv-topics-distilbert-base-cased) for 2 epochs. 
+I fine-tuned all weights from a pre-trained [distilbert](https://huggingface.co/Wi/arxiv-topics-distilbert-base-cased) for 2 epochs. More details on training in the notebook.
